@@ -1,14 +1,13 @@
-# Hello, I'm Dion-Reece Fullerton
+# Hello, I'm Dion Fullerton
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a cybersecurity student through self studying with a profound interest in technology and a skill set based around solving complex problems.
+Aspiring cybersecurity professional with a passion for technology and a talent for solving complex problems. Currently advancing my skills through self-directed learning, hands-on projects, and a focus on building expertise in real-world cybersecurity challenges.
 
 ## Objective
 
 
-in the past i have been affected by cyber crime mainly in the form of ddos attacks, this has lead me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Having personally experienced the impact of cybercrime, particularly through DDoS attacks, I developed a deep passion for cybersecurity. This experience has driven me to pursue a career in this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to defending against cyber threats and safeguarding digital environments.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -46,7 +45,7 @@ in the past i have been affected by cyber crime mainly in the form of ddos attac
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
